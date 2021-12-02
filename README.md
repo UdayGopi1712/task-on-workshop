@@ -15,7 +15,7 @@
 
 ~~this is strike off sentences~~
 
-:sweat_smile:
+## :sweat_smile:
 
-:hugs:
-:hugs:
+# :hugs:
+# :hugs:
