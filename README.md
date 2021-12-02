@@ -15,4 +15,4 @@
 
 ~~this is strike off sentences~~
 
-:sweet_smile:
+:sweat_smile:
