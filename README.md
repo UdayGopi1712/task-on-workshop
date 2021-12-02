@@ -13,3 +13,5 @@
 
 ![funny image](https://upload.wikimedia.org/wikipedia/commons/7/7d/Wildlife_at_Maasai_Mara_%28Lion%29.jpg)
 
+~~this is strike off sentences~~
+
